@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next hello</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id turpis a arcu scelerisque mollis. Aenean blandit scelerisque malesuada. Ut sit amet sapien diam. Proin finibus molestie est non imperdiet. Quisque purus nisi, ultrices id finibus et, aliquet at enim. Sed quam eros, consectetur et porta vel, finibus ac felis. Sed elementum finibus leo dignissim tincidunt. Suspendisse potenti. Sed vel rhoncus risus. Fusce semper felis in massa viverra, at tempor ante consequat. Phasellus ullamcorper varius consectetur. Proin viverra nibh in laoreet blandit. Fusce enim metus, laoreet et molestie non, sollicitudin eu felis. Morbi sed feugiat urna.
+
+Morbi accumsan non dolor nec varius. Curabitur arcu augue, sagittis ac metus et, semper feugiat arcu. Sed augue magna, molestie vel leo sed, tristique lobortis lectus. Phasellus ac est tempor, cursus turpis a, porta felis. Sed rutrum pellentesque arcu quis ultrices. Duis at metus urna. Praesent vehicula lorem tortor, at sagittis dui fringilla vel. Suspendisse id nunc ac ligula tempor sollicitudin. Phasellus lacus purus, faucibus vitae mi tempus, mattis hendrerit nulla. Suspendisse orci est, semper at ultrices ac, tempor et dolor. Cras scelerisque ligula ac est rhoncus, nec rutrum enim gravida. Nunc sodales sem quis mi sodales cursus sit amet dapibus nibh. Suspendisse molestie risus nec ipsum condimentum, sit amet dictum nunc pellentesque.
+
+Nam congue nibh porttitor, vehicula erat vitae, laoreet nibh. Pellentesque ut quam varius, vehicula lectus egestas, posuere orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut venenatis lectus non nisi imperdiet commodo. Sed ultricies, augue id ullamcorper luctus, sem arcu hendrerit augue, nec interdum sem ligula non diam. Morbi maximus ante lacus, in vehicula tortor fermentum quis. Vivamus efficitur eu sapien vitae ornare. Sed fermentum erat in eleifend accumsan.
+
+Pellentesque quis arcu mauris. Etiam tincidunt pretium tortor. Cras venenatis nisl eu purus finibus accumsan. In nisl libero, egestas sit amet semper quis, dictum eget nulla. Quisque maximus magna eget feugiat sodales. Nunc hendrerit urna eu eros maximus imperdiet. Curabitur a enim tincidunt erat dapibus posuere. Sed pharetra hendrerit blandit. Nunc fermentum egestas risus sit amet hendrerit. Cras pulvinar in ante vel lacinia. Maecenas dictum risus eget purus mollis, nec sollicitudin velit consectetur. Donec volutpat nisi quis risus scelerisque consectetur. Sed ultrices nec ex et venenatis. Ut commodo nunc egestas libero auctor fermentum. Quisque ac erat in sapien scelerisque eleifend id sed massa.
+
+Praesent dignissim ultricies tellus in tristique. Nunc porta velit ante, quis maximus odio porta quis. In vitae volutpat metus. Donec iaculis consectetur purus, a congue ipsum volutpat eu. Etiam bibendum neque et ex tincidunt, a volutpat augue finibus. Duis et tempus lectus. Sed eu libero vitae ex imperdiet aliquet. Nam cursus, dui nec hendrerit gravida, ipsum mi posuere dolor, at euismod leo quam nec magna.
+    </string>
+
+    <string-array name="labels_array">
+        <item>Indonesia</item>
+        <item>England</item>
+        <item>Spain</item>
+        <item>Russia</item>
+        <item>Japan</item>
+    </string-array>
+</resources>
